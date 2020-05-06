@@ -1,6 +1,6 @@
 # PracticeLaravel04
 Laravel で色々遊ぶ用のリポジトリ  
-ver 6.7  
+ver 6.18.13  
 
 
 ## 起動・終了
