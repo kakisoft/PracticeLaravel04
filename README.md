@@ -56,7 +56,7 @@ _______________________________________________________________________________
 
 ## Create Project
 ```
-composer create-project --prefer-dist  "laravel/laravel=5.5" my-laravel-app
+composer create-project --prefer-dist  "laravel/laravel=6" my-laravel-app
 ```
 
 ## Rollback
